@@ -1,0 +1,94 @@
+.m1 {
+    margin-top: 2rem;
+}
+
+.PostModle {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.PostModle .asd {
+    display: flex;
+    justify-content: space-between;
+}
+
+.PostModle .asd img {
+    flex: 1;
+    margin-right: 1rem;
+}
+
+.PostModle .asd .colsa {
+    flex: 1;
+}
+
+.PostModle img {
+    max-width: 100%;
+}
+
+.PostModle .title {
+    margin: 0;
+    flex: 1;
+    font-size: 2.5rem;
+}
+
+
+.PostModle .title {
+    display: flex;
+    justify-content: center;
+}
+
+.PostModle .img-name {
+    display: flex;
+    align-items: center;
+}
+
+.PostModle .img-name .img {
+    border-radius: 50%;
+    margin-right: 0.3rem;
+}
+
+
+.PostModle .descriptn {
+    border: none;
+}
+
+.PostModle .text-photo-emoje-flat-more {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 0.6rem;
+    border: 1px solid rgb(221, 221, 221);
+    border-radius: 8px;
+
+}
+
+.PostModle .text-photo-emoje-flat-more .photo-emoje-flat-more .photo #photo {
+    display: none;
+}
+
+.PostModle .text-photo-emoje-flat-more .photo-emoje-flat-more {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.PostModle .PostButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    border: none;
+    background-color: rgb(71, 71, 219);
+    padding: 0.3rem;
+    border: 1px solid rgb(221, 221, 221);
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+}
+
+.PostModle .git {
+    margin-right: .5rem;
+}
